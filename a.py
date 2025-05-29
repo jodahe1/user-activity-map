@@ -3,8 +3,8 @@ import pandas as pd
 import pydeck as pdk
 
 # Set up the app
-st.set_page_config(layout="wide", page_title="Ethiopia Map")
-st.title("Ethiopia User Activity Map")
+st.set_page_config(layout="wide", page_title=" Map")
+st.title(" User Activity Map")
 
 # 1. Data Loading with Validation
 @st.cache_data
